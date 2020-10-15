@@ -11,7 +11,7 @@ Tenho 21 anos, atualmente moro na cidade de São Paulo/SP, cursando CC(Ciências
 
 ❤️ Gosto mais do que lasanha: The Big Bang Theory, programação, calor, games e um rosh!
 
-📫 conheça mais:
+📫 conheça mais, sobre mim:
 
 Meu instagram: https://instagram.com/meeloleo/
 
