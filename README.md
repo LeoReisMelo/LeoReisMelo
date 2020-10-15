@@ -18,7 +18,7 @@ Meu instagram: https://instagram.com/meeloleo/
 Meu linkedin / Jobs: https://www.linkedin.com/in/leonardoreismelo/
 
 
-![alt text](https://www.pinterest.ca/pin/323977766926051965/?nic_v2=1a5OXZIFR)
+![alt text](https://github.com/LeoReisMelo/LeoReisMelo/blob/main/39d133ee277e4568fb5258cd0dfc07dd.gif)
 
 
 
