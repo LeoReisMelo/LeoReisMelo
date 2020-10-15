@@ -12,3 +12,7 @@ Tenho 21 anos, atualmente moro na cidade de São Paulo/SP, cursando CC(Ciências
 ❤️ Gosto mais do que lasanha: The Big Bang Theory, programação, calor, games e um rosh!
 
 📫 conheça mais:
+Meu instagram: https://instagram.com/meeloleo/
+
+Meu linkedin / Jobs: https://www.linkedin.com/in/leonardoreismelo/
+
