@@ -5,10 +5,10 @@ Tenho 21 anos, atualmente moro na cidade de São Paulo/SP, cursando CC(Ciências
 
 🖥️ Tecnologias: HTML | CSS | JavaScript | NodeJS | ReactJS | NestJS | SQL | Java;
 
-🌱 Aprendendo: ReactJS, NestJS, NodeJS e por ai em diante;
+🌱 Aprendendo: ReactJS, NestJS, NodeJS e por ai em diante!;
 
-⚡ Curiosidades: Bora jogar um PB?!, apaixonado por games e Corinthiano
+⚡ Curiosidades: Bora jogar um PB?!, apaixonado por games, Corinthiano e curto uns rosh aos finais de semana!;
 
-❤️ Gosto mais do que lasanha: The Big Bang Theory, tecnologias, programação, calor, games e um rosh!
+❤️ Gosto mais do que lasanha: The Big Bang Theory, programação, calor, games e um rosh!
 
 📫 conheça mais:
