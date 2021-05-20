@@ -3,7 +3,7 @@ Tenho 21 anos, atualmente moro na cidade de São Paulo/SP, cursando CC(Ciências
 
 <Não deixe tua maldade cobrir teu sorriso> ❤
 
-🖥️ Tecnologias: HTML | CSS | JavaScript | NodeJS | ReactJS | NestJS | SQL | Java;
+🖥️ Tecnologias: HTML | CSS | JavaScript | NodeJS | ReactJS | NestJS | SQL | GraphQL;
 
 🌱 Aprendendo: ReactJS, NestJS, NodeJS e por ai em diante!;
 
