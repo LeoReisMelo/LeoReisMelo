@@ -44,14 +44,4 @@
 
 ⚡ Curiosidades: Vamos nos conhecer?!, apaixonado por games e curto uns rosh aos finais de semana!;
 
-❤️ Gosto mais do que lasanha: The Big Bang Theory, tecnologia, calor, games!
-
-📫 conheça mais, sobre mim:
-
-Meu instagram: https://instagram.com/meeloleo/
-
-Meu linkedin / Jobs: https://www.linkedin.com/in/leonardoreismelo/
-
-
-
-
+❤️ Gosto mais do que lasanha: The Big Bang Theory, tecnologia, calor, games.
