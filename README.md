@@ -32,9 +32,10 @@
 ##
 
 <div> 
-  <a href="" target="_blank"><img width="30" heigth="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" target="_blank"></a>
+  <a href="" target="_blank"><img width="30" heigth="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/youtube.svg" target="_blank"></a>
   <a href="https://instagram.com/meeloleo" target="_blank"><img width="30" heigth="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardoreismelo" target="_blank"><img width="30" height="30"        src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"  target="_blank"></a> 
+  <a href="mailto:leonardoreismeelo@outlook.com" target="_blank"><img width="30" heigth="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/outlook.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardoreismelo" target="_blank"><img width="30" height="30"        src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"  target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
