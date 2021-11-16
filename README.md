@@ -8,7 +8,7 @@
 </div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoReisMelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-<h3>Linguagens e Ferramentas  
+<h4><b>Linguagens e Ferramentas</b></h4>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
