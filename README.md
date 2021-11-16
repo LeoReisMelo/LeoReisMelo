@@ -1,13 +1,11 @@
 ### Eaii! Eu sou o Leonardo Reis
 ##
-<h2>Sobre mim: </h2>
-- Tenho 22 anos, atualmente moro na cidade de São Paulo/SP
-- Apaixonado pelo universo de desenvolvimento BackEnd e com um desvio para o FrontEnd.
-- Sempre dispostos a aprender novas tecnologias e encarar novos desafios
+🏠 Tenho 22 anos, atualmente moro na cidade de São Paulo/SP <br/>
+🖥️ Apaixonado pelo universo de desenvolvimento Back-end e com um desvio para o Front-end.<br/>
+🧠 Sempre dispostos a aprender novas tecnologias e encarar novos desafios
 <div>
   <a href="https://github.com/LeoReisMelo"/>
 </div>
-<br/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoReisMelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 <h3><strong>Linguagens e Ferramentas:</strong></h3>  
@@ -37,7 +35,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/meeloleo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leonardoreismeelo@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardoreismelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/leonardoreismelo" target="_blank"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
