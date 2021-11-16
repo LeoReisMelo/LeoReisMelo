@@ -34,7 +34,6 @@
 <div> 
   <a href="" target="_blank"><img width="30" heigth="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" target="_blank"></a>
   <a href="https://instagram.com/meeloleo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:leonardoreismeelo@outlook.com"><img width="30" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/outlook.svg" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leonardoreismelo" target="_blank"><img width="30" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"  target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
