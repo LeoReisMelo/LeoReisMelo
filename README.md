@@ -30,7 +30,7 @@
 </div>
 
 ##
-<h2>Redes sociais:</h2>
+<h3><strong>Redes sociais:</strong></h3>
 <div> 
   <a href="" target="_blank"><img width="30" heigth="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/youtube.svg" target="_blank"></a>
   <a href="https://instagram.com/meeloleo" target="_blank"><img width="30" heigth="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"></a>
