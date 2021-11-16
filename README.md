@@ -23,7 +23,10 @@
   <img align="center" alt="Leo-Mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Leo-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Leo-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://github.com/LeoReisMelo/LeoReisMelo/blob/main/39d133ee277e4568fb5258cd0dfc07dd.gif">
+</div>
+
+<div>
+   <img align="right" alt="Rafa-yoda" src="https://github.com/LeoReisMelo/LeoReisMelo/blob/main/39d133ee277e4568fb5258cd0dfc07dd.gif"> 
 </div>
 
 ##
