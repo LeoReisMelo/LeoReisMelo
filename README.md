@@ -1,4 +1,4 @@
-### Eaii! Eu sou o Leonardo Reis
+### Oi! Eu sou o Leonardo Reis
 ##
 🏠 Tenho 22 anos, atualmente moro na cidade de São Paulo/SP <br/>
 🖥️ Apaixonado pelo universo de desenvolvimento Back-end e com um desvio para o Front-end.<br/>
