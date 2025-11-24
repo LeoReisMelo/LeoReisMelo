@@ -1,4 +1,5 @@
-🇧🇷 ## Oi! Eu sou o Leonardo Reis 👋
+🇧🇷 
+## Oi! Eu sou o Leonardo Reis 👋
 
 🏠 Tenho 26 anos e atualmente moro em São Paulo – SP.  
 🖥️ Desenvolvedor Back-end apaixonado pelo ecossistema JavaScript/TypeScript, com um pé no Front-end.  
@@ -53,7 +54,8 @@
 
 > “Não deixe tua maldade cobrir teu sorriso.” ❤️
 
-🇺🇸 ## Hi! I'm Leonardo Reis 👋
+🇺🇸 
+## Hi! I'm Leonardo Reis 👋
 
 🏠 I'm 26 years old and currently living in São Paulo, Brazil.  
 🖥️ Back-end Developer passionate about the JavaScript/TypeScript ecosystem, with some experience in Front-end development.  
