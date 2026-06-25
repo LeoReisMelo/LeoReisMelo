@@ -38,7 +38,7 @@
 
 ### 🌐 **Redes Sociais**
 <div> 
-  <a href="https://instagram.com/meeloleo" target="_blank"><img width="30" heigth="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"></a>
+  <a href="https://instagram.com/meloleo.dev" target="_blank"><img width="30" heigth="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"></a>
   <a href="mailto:leonardoreismeelo@outlook.com" target="_blank"><img width="30" heigth="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/outlook.svg"></a>
   <a href="https://www.linkedin.com/in/leonardoreismelo" target="_blank"><img width="30" height="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"></a> 
 
@@ -94,7 +94,7 @@
 
 ### 🌐 **Social Media**
 <div> 
-  <a href="https://instagram.com/meeloleo" target="_blank"><img width="30" heigth="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"></a>
+  <a href="https://instagram.com/meloleo.dev" target="_blank"><img width="30" heigth="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"></a>
   <a href="mailto:leonardoreismeelo@outlook.com" target="_blank"><img width="30" heigth="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/outlook.svg"></a>
   <a href="https://www.linkedin.com/in/leonardoreismelo" target="_blank"><img width="30" height="30" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"></a>
 
